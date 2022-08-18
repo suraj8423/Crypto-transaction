@@ -1,4 +1,4 @@
-# crypto-transaction
+# Crypto-transaction
 **Live-** [Live Website](https://krypt110.netlify.app/) 
 
 ## Exposure
